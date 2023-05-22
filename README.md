@@ -16,17 +16,10 @@ Data that can be analyzed and used for security, business decisions, understandi
 
 ## Conclusion
 1) Based on the visualization chart, we can conclude that the maximum prices for different room types in different neighborhoods of the Airbnb dataset vary significantly. The chart shows that the entire home/apartment type of rooms generally have the highest maximum prices, followed by private rooms and shared rooms.
-
 2) Overall, this analysis suggests that while there is some relationship between the price and minimum nights in the Airbnb dataset, it is not strong enough to be a significant factor in predicting the price of a listing. Other factors such as location, amenities, and availability may have a stronger impact on the price of an Airbnb listing.
-
 3) The most expensive room type is an entire home/apt, with Manhattan being the most expensive neighbourhood group. The least expensive room type is a shared room, with Bronx being the least expensive neighbourhood group. The chart can be useful for those looking to rent an Airbnb and want to compare prices across neighbourhoods and room types.
-
 4) We found that the Queens and Manhattan neighborhood group is the highest reviewed group.
-
 5)The Manhattan is the highest average price over all the room types.
-
 6)The Manhattan and Brooklyn have the highest average minimum nights.
-
 7) The maximum number of reviews received is highest for listings with prices between 0-200
-
 8)Overall we found that Manhattan is the highest traffic generated.
