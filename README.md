@@ -7,6 +7,8 @@ The project involves collecting data on room types, prices, and other related va
 
 Overall, the project aims to provide a deeper understanding of Airbnb and its impact on the travel industry
 
+![Airbnb logo](https://github.com/vaishnavitechcoder/AirBnb_Booking_Analysis/assets/133495294/b27cf832-4b57-4932-a561-ca7aa8c82ea2)
+
 ## Problem Statement
 Since 2008, guests and hosts have used Airbnb to expand travelling possibilities.
 
